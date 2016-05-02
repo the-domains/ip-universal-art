@@ -1,0 +1,28 @@
+name: IP Universal Art
+favicon: null
+layout_spectrum: 0.9792387043125927
+typography_spectrum: 0.8182696176227182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6382295314688236
+  lightness: 0.5006712216418236
+  saturation: 0.0055703355465084314
+  rhythmicContrast: 0.5550790266133845
+purpose: []
