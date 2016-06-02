@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[IP Universal Art]]></title>
         <description><![CDATA[IP Universal Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ip-universal-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 23:46:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 00:10:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ip-universal-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inspire]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34f39bda-b249-400c-9424-e3a47163df40.jpg">]]></description>
-            <link>undefinedinspire/index.html</link>
+            <link>https://thegrid.ai/ip-universal-art/inspire/index.html</link>
             <guid isPermaLink="false">9ee97465-18e5-4964-bc2f-03be7a5e29f8</guid>
-            <pubDate>Wed, 01 Jun 2016 23:45:38 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 00:10:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
